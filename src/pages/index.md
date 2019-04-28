@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Конференція 2019
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Науково-практична конференція з міжнародною участю
 mainpitch:
   title: Why Kaldi
   description: >
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
