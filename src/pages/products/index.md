@@ -62,7 +62,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-    - image: /img/screenshot-2019-05-01-at-19.53.36.png
+    - image: /img/kapullerphoto.jpg
       text: привет!
   heading: What we offer
   description: >
