@@ -5,7 +5,7 @@ image: /img/anons-conferenc_child_surgery_2019_no_flags.jpeg
 heading: Great coffee with a conscience
 subheading: Науково-практична конференція з міжнародною участю
 mainpitch:
-  title: Why Kaldi
+  title: Привітання
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
