@@ -86,19 +86,19 @@ pricing:
         - One or two varieties of beans"
       plan: ЛІКАР
       price: рання 1500₴ / пізня 1750₴ / на місці 2500₴
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: інтерни та <5 років після закінчення інтернатури
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: МОЛОДИЙ ЛІКАР (інтерни та <5 років після закінчення інтернатури)
+      plan: 'МОЛОДИЙ ЛІКАР '
       price: рання 850₴ / пізня 1100₴ / на місці 2500₴
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: при наявності дійсного студентського посвідчення
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: СТУДЕНТИ (при наявності дійсного студентського посвідчення)
+      plan: 'СТУДЕНТИ '
       price: рання 400₴ / пізня 400₴ / на місці 1000₴
 ---
 
