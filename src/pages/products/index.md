@@ -8,19 +8,45 @@ description: >-
   спікерами
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/jorgephoto.jpeg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Хочу запросити вас взяти участь у VII Науково-практичній конференції з
+        міжнародною участю «МАЛОІНВАЗИВНА ХІРУРГІЯ ТА УРОЛОГІЯ ДИТЯЧОГО ВІКУ
+        2019», що буде проходити в Києві. Цей конгрес стане чудовою можливістю
+        задля обміну інформацією в дружньому та високоякісному науковому
+        середовищі з експертами з різних куточків світу. 
+
+        Мі впевнені, що ваша присутність на цьому заході принесе вам велику
+        користь.
+
+        Побачимось в Україні (19-20 Вересня, 2019)!  
+
+
+        Хорхе Годой Ленц
+
+        керівник служби дитячої хірургії Лікарні Сан Хуан де Діос та Клініки Лас
+        Кондес, Сантьяго, Чілі
+    - image: /img/manuelphoto.jpg
+      text: >-
+        Колеги та друзі
+
+        Я особисто запрошую вас відвідати VII Науково-практичну конференцію з
+        міжнародною участю «МАЛОІНВАЗИВНА ХІРУРГІЯ ТА УРОЛОГІЯ ДИТЯЧОГО ВІКУ
+        2019», що пройде в Києві 19-20 вересня на базі клініки «Оберіг». В
+        рамках цієї зустрічі буде проведено серію «живих» хірургічних втручань,
+        які будуть виконі різними провідними спеціалістами цієї галузі. У вас
+        буде можливість зустрітися з ними та задати їм різноманітні питання щодо
+        дитячої хірургії та урології.
+
+        З нетерпінням чекаю на зустріч із кожним із вас на цьому конгресі. Це
+        буде чудово.
+
+        З найтеплішими побажаннями,
+
+        Мануель Лопес
+
+        Голова служби дитячої хірургії Університетського Госпіталя Вааль
+        д’Хеброн, Барселона, Іспанія
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -59,46 +85,38 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/shvedskie-vrachi-500x280.jpg
+testimonials: []
+full_image: /img/vrachi-obr.jpg
 pricing:
   heading: Умови участі в конференції
   description: >-
-    Рання реєстрація з 15.05.2019 по 15.06.2019  Пізня реєстрація з 16.06.2019
-    по 01.09.2019  У вартість включено кофі-брейки та ланч. Вартість вказано в
-    український гривні. Кількість місць обмежена до 120 учасників. Реєстрація на
-    місці передбачає несамовите бажання прийняти учать в конфеоенції, що виникло
-    безпосередньо в день її проведення та вимагає сплати 2500₴ лікарем та
-    молодим лікарем або 1000₴ студентом.
+    Рання реєстрація триває з 15.05.2019 по 15.06.2019.  Пізня реєстрація триває
+    з 16.06.2019 по 01.09.2019  У вартість включено кофі-брейки та ланч.
+    Вартість вказано в український гривні. Кількість місць обмежена до 120
+    учасників. Реєстрація на місці передбачає несамовите бажання прийняти учать
+    в конференції, що виникло безпосередньо в день її проведення, та вимагає
+    сплати 2500₴ лікарем та молодим лікарем або 1000₴ студентом.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: '>5 років після закінчення інтернатури'
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Рання реєстрація 1500₴
+        - Пізня реєстрація1750₴
+        - Реєстрація на місці 2500₴
       plan: ЛІКАР
-      price: рання 1500₴ / пізня 1750₴ / на місці 2500₴
+      price: 1500₴ / 1750₴ / 2500₴
     - description: інтерни та <5 років після закінчення інтернатури
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Рання реєстрація 850₴
+        - Пізня реєстрація 1100₴
+        - Реєстрація на місці 2500₴
       plan: 'МОЛОДИЙ ЛІКАР '
-      price: рання 850₴ / пізня 1100₴ / на місці 2500₴
+      price: 850₴ / 1100₴ / 2500₴
     - description: при наявності дійсного студентського посвідчення
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Рання реєстрація 400₴
+        - Пізня реєстрація 400₴
+        - Реєстрація на місці 1000₴
       plan: 'СТУДЕНТИ '
-      price: рання 400₴ / пізня 400₴ / на місці 1000₴
+      price: 400₴ / 400₴ / 1000₴
 ---
 
