@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Конференція 2019
 image: /img/anons-conferenc_child_surgery_2019_no_flags.jpeg
-heading: Great coffee with a conscience
+heading: 'з повагою,'
 subheading: Науково-практична конференція з міжнародною участю
 mainpitch:
   title: Привітання
@@ -30,11 +30,9 @@ mainpitch:
     Щиро сподіваємося, що участь у конференції стане корисною не тільки завдяки
     отриманим новим знанням і навичкам, але й надасть можливість втілити їх у
     повсякденну практичну діяльність дитячого хірурга та уролога.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+
+    З повагою, 
+description: організатори конференції
 intro:
   blurbs:
     - image: /img/dubrovin.jpg
@@ -48,7 +46,7 @@ intro:
       text: "Керівник служби хірургії дитячого віку Універсальної клініки «Оберіг», к.м.н., асистент кафедри дитячої хірургії НМУ ім. О.О. Богомольця\t\nО.С. Годік\n"
     - image: /img/без-названия.jpg
       text: "Генеральний менеджер KarlStorz в Україні\t\nВ.А. Швачка"
-  heading: '  З повагою, '
+  heading: ччччч
   description: |+
 
 main:
