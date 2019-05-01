@@ -2,12 +2,10 @@
 templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: 'Привітання від спікерів '
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Привітання участикам конференціі, що особисто були надійслані нашими шоновними
+  спікерами
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -70,34 +68,37 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/shvedskie-vrachi-500x280.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Умови участі в конференції
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Рання реєстрація з 15.05.2019 по 15.06.2019  Пізня реєстрація з 16.06.2019
+    по 01.09.2019  У вартість включено кофі-брейки та ланч. Вартість вказано в
+    український гривні. Кількість місць обмежена до 120 учасників. Реєстрація на
+    місці передбачає несамовите бажання прийняти учать в конфеоенції, що виникло
+    безпосередньо в день її проведення та вимагає сплати 2500₴ лікарем та
+    молодим лікарем або 1000₴ студентом.
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
-      price: '50'
+      plan: ЛІКАР
+      price: рання 1500₴ / пізня 1750₴ / на місці 2500₴
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
+      plan: МОЛОДИЙ ЛІКАР (інтерни та <5 років після закінчення інтернатури)
+      price: рання 850₴ / пізня 1100₴ / на місці 2500₴
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
-      price: '??'
+      plan: СТУДЕНТИ (при наявності дійсного студентського посвідчення)
+      price: рання 400₴ / пізня 400₴ / на місці 1000₴
 ---
 
