@@ -1,5 +1,6 @@
 ---
 templateKey: product-page
+title: '?'
 image: /img/anons-conferenc_child_surgery_2019_logo.jpeg
 heading: 'Привітання від спікерів '
 description: >-
@@ -47,13 +48,20 @@ intro:
 
         Голова служби дитячої хірургії Університетського Госпіталя Вааль
         д’Хеброн, Барселона, Іспанія
-    - image: /img/tutorials.png
+    - image: /img/kapullerphoto.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Шановні ДРУЗІ! 
+
+        Дякую за надану можливість знову прийняти участь у VII
+        Науково-практичній конференції з міжнародною участю «МАЛОІНВАЗИВНА
+        ХІРУРГІЯ ТА УРОЛОГІЯ ДИТЯЧОГО ВІКУ 2019». З нетерпінням чекаю зустрічі з
+        вами, красенем Києвом, з коханою Україною. Радий, що зустріч відбудеться
+        у чудово оснащеній клініці " Оберіг", в якій я мав честь та задоволення
+        оперувати та зустрічався з вами в попередні мої приїзди. 
+
+        Ваш Вадим Капуллер, провідний дитячій хірург Університетської Клініки
+        Хадасса, Єрусалим, Ізраїль. Випускник Дніпропетровського медичного
+        інститута
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
