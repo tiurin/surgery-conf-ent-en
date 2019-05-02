@@ -1,10 +1,11 @@
 ---
-templateKey: 'program-page'
-path: /about
+templateKey: program-page
 title: Програма
 ---
 ### День 1
-Програма день 1
+
+Програма першого дня
 
 ### День 2
-Програма день 2
+
+Програма другого дня
