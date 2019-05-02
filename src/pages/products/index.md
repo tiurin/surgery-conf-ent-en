@@ -71,21 +71,24 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: ЖИВА ХІРУРГІЯ
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Проведення наукових форумів неможливо без використання телекомунікаційних
+    технологій. Вже вкотре завдяки компанії Карл Шторц Україна давері своїх
+    операційних відкриє для учасників конференції універсальна клініка "Оберіг".
+    Під "прицілом" відеокамер провідні спеціалісти виконають ряд втручань, які
+    можна буде дивитись в режимі реального часу; відеоконференція запеспечить
+    спілкування з операційною бригадою лікарів з конференц-залу, із можливістю
+    задати будь-яке питання щодо операції і негайно отримати коментарії.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/img_5889.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/img_5843.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/img_6683.jpg
 testimonials: []
 full_image: /img/vrachi-obr.jpg
 pricing:
