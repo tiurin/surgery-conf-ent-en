@@ -89,7 +89,7 @@ main:
     задати будь-яке питання щодо операції і негайно отримати коментарії.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/img_5889.jpg
+    image: /img/жив1.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/img_5843.jpg
