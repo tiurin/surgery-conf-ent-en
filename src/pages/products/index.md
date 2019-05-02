@@ -1,6 +1,5 @@
 ---
 templateKey: product-page
-title: Our Coffee
 image: /img/anons-conferenc_child_surgery_2019_logo.jpeg
 heading: 'Привітання від спікерів '
 description: >-

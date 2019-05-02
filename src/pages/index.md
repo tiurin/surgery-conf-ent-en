@@ -1,9 +1,7 @@
 ---
 templateKey: index-page
-title: Конференція 2019
 image: /img/anons-conferenc_child_surgery_2019_no_flags.jpeg
 heading: 'з повагою,'
-subheading: Науково-практична конференція з міжнародною участю
 mainpitch:
   title: Привітання
   description: >-
