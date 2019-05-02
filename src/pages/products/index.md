@@ -86,7 +86,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials: []
 full_image: /img/vrachi-obr.jpg
 pricing:
   heading: Умови участі в конференції
