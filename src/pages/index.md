@@ -33,14 +33,14 @@ mainpitch:
 description: організатори конференції
 intro:
   blurbs:
-    - image: /img/dubrovin.jpg
+    - image: /img/dubrovin3.jpg
       text: |
         Президент Всеукраїнської Асоціації дитячих хірургів, д.м.н., 
         професор кафедри дитячої хірургії НМУ ім. О.О. Богомольця
         О.Г. Дубровін
     - image: /img/левицкий.jpg
       text: "Завідувач кафедри дитячої хірургії НМУ ім. О.О. Богомольця, \nд.м.н., професор\t\nА.Ф. Левицький \n"
-    - image: /img/be6252217781da56762c72bca08953f7.png
+    - image: /img/godik.jpg
       text: "Керівник служби хірургії дитячого віку Універсальної клініки «Оберіг», к.м.н., асистент кафедри дитячої хірургії НМУ ім. О.О. Богомольця\t\nО.С. Годік\n"
     - image: /img/швачка1.jpg
       text: "Генеральний менеджер KarlStorz в Україні\t\nВ.А. Швачка"
@@ -57,6 +57,6 @@ main:
     image: /img/apple-touch-icon.png
   image3:
     alt: '?'
-    image: /img/apple-touch-icon.png
+    image: /img/favicon-16x16.png
 ---
 
