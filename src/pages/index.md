@@ -38,12 +38,25 @@ intro:
         Президент Всеукраїнської Асоціації дитячих хірургів, д.м.н., 
         професор кафедри дитячої хірургії НМУ ім. О.О. Богомольця
         О.Г. Дубровін
-    - image: /img/levitsky.jpg
+    - image: /img/левицкий.jpg
       text: "Завідувач кафедри дитячої хірургії НМУ ім. О.О. Богомольця, \nд.м.н., професор\t\nА.Ф. Левицький \n"
     - image: /img/be6252217781da56762c72bca08953f7.png
       text: "Керівник служби хірургії дитячого віку Універсальної клініки «Оберіг», к.м.н., асистент кафедри дитячої хірургії НМУ ім. О.О. Богомольця\t\nО.С. Годік\n"
-    - image: /img/без-названия.jpg
+    - image: /img/швачка1.jpg
       text: "Генеральний менеджер KarlStorz в Україні\t\nВ.А. Швачка"
-  description: |+
+  heading: '?'
+  description: '?'
+main:
+  heading: '?'
+  description: '?'
+  image1:
+    alt: '?'
+    image: /img/apple-touch-icon.png
+  image2:
+    alt: '?'
+    image: /img/apple-touch-icon.png
+  image3:
+    alt: '?'
+    image: /img/apple-touch-icon.png
 ---
 
