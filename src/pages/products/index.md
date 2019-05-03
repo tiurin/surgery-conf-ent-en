@@ -92,7 +92,7 @@ main:
     image: /img/zhiv.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/img_5843.jpg
+    image: /img/яршм2.jpg
   image3:
     alt: Coffee beans
     image: /img/img_6683.jpg
