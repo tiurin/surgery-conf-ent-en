@@ -69,7 +69,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-    - image: /img/kapullerphoto.jpg
+    - image: /img/14_minevich-eugene_nor_5418.jpg
       text: привет!
   heading: What we offer
   description: >
@@ -81,7 +81,7 @@ main:
   heading: ЖИВА ХІРУРГІЯ
   description: >
     Проведення наукових форумів неможливо без використання телекомунікаційних
-    технологій. Вже вкотре завдяки компанії Карл Шторц Україна давері своїх
+    технологій. Вже вкотре завдяки компанії Карл Шторц Україна двері своїх
     операційних відкриє для учасників конференції універсальна клініка "Оберіг".
     Під "прицілом" відеокамер провідні спеціалісти виконають ряд втручань, які
     можна буде дивитись в режимі реального часу; відеоконференція запеспечить
