@@ -70,7 +70,12 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
     - image: /img/14_minevich-eugene_nor_5418.jpg
-      text: привет!
+      text: >-
+        Професор Юджин Миневич,
+
+        голова відділення дитячої урології, директор Міжнародного освітнього
+        центру з дитячої урології  "Stone Center", дитяча лікарня м. Цинцинатті,
+        Огайо, США
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
