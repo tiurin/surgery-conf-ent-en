@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-image: /img/anons-conferenc_child_surgery_2019_logo.jpeg
+image: /img/екшлs.jpeg
 heading: 'з повагою,'
 mainpitch:
   description: >-
