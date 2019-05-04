@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-image: /img/_logo.jpg
+image: /img/9_logo.jpg
 heading: 'з повагою,'
 mainpitch:
   description: >-
