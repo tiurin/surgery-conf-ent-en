@@ -62,13 +62,9 @@ intro:
         Ваш Вадим Капуллер, провідний дитячій хірург Університетської Клініки
         Хадасса, Єрусалим, Ізраїль. Випускник Дніпропетровського медичного
         інститута
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/no-translate-detected_318-58762.jpg
+      text: |
+        привітання спікера
     - image: /img/14_minevich-eugene_nor_5418.jpg
       text: >-
         Професор Юджин Миневич,
@@ -101,7 +97,6 @@ main:
   image3:
     alt: Coffee beans
     image: /img/img_6683.jpg
-testimonials: []
 full_image: /img/vrachi-obr.jpg
 pricing:
   heading: Умови участі в конференції
