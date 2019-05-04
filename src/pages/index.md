@@ -1,11 +1,8 @@
 ---
 templateKey: index-page
-title: '?'
 image: /img/anons-conferenc_child_surgery_2019_logo.jpeg
 heading: 'з повагою,'
-subheading: '?'
 mainpitch:
-  title: Привітання
   description: >-
     Шановні колеги!
 
@@ -30,6 +27,7 @@ mainpitch:
     Щиро сподіваємося, що участь у конференції стане корисною не тільки завдяки
     отриманим новим знанням і навичкам, але й надасть можливість втілити їх у
     повсякденну практичну діяльність дитячого хірурга та уролога.
+  title: Привітання
 description: організатори конференції
 intro:
   blurbs:
