@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 image: /img/anons-conferenc_child_surgery_2019_logo.jpg
-heading: 'з повагою,'
+heading: 'з повагою, '
 mainpitch:
   description: >-
     Шановні колеги!
