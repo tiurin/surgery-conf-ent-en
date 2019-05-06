@@ -1,6 +1,5 @@
 ---
 templateKey: product-page
-title: '?'
 image: /img/anons-conferenc_child_surgery_2019_logo.jpeg
 heading: 'Привітання від спікерів '
 description: >-
@@ -128,6 +127,6 @@ pricing:
         - Пізня реєстрація 400₴ (з 16.06.2019 по 01.09.2019)
         - Реєстрація на місці 1000₴
       plan: 'СТУДЕНТИ '
-      price: 400₴  400₴  1000₴
+      price: 400₴   400₴ 1000₴
 ---
 
