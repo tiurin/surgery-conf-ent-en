@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-image: /img/anons-conferenc_child_surgery_2019_logo.jpeg
+image: /img/speakers_2019_logo.jpg
 heading: 'Привітання від спікерів  '
 description: >-
   Привітання участикам конференціі, що особисто були надійслані нашими шоновними
