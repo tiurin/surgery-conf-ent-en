@@ -96,6 +96,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/img_6683.jpg
-full_image: /img/vrachi-obr.jpg
 ---
 

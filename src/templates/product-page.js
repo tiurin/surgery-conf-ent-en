@@ -10,8 +10,7 @@ export const ProductPageTemplate = ({
   heading,
   description,
   intro,
-  main,
-  fullImage
+  main
 }) => (
   <div className="content">
     <div
@@ -64,16 +63,6 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
               </div>
-              <div
-                className="full-width-image-container"
-                style={{
-                  backgroundImage: `url(${
-                    fullImage.childImageSharp
-                      ? fullImage.childImageSharp.fluid.src
-                      : fullImage
-                  })`,
-                }}
-              />
             </div>
           </div>
         </div>
@@ -96,8 +85,7 @@ ProductPageTemplate.propTypes = {
     image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  }),
-  fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string])
+  })
 }
 
 const ProductPage = ({ data }) => {
@@ -112,7 +100,6 @@ const ProductPage = ({ data }) => {
         description={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
-        fullImage={frontmatter.full_image}
       />
     </Layout>
   )
@@ -187,13 +174,6 @@ export const productPageQuery = graphql`
                   ...GatsbyImageSharpFluid
                 }
               }
-            }
-          }
-        }
-        full_image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
             }
           }
         }
