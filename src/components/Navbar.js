@@ -64,14 +64,14 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/products">
                 Спікери
               </Link>
+              <Link className="navbar-item" to="/registration">
+                Реєстрація
+              </Link>
               <Link className="navbar-item" to="/workshop">
                 Майстер-клас
               </Link>
               <Link className="navbar-item" to="/sponsors">
                 Спонсори
-              </Link>
-              <Link className="navbar-item" to="/registration">
-                Реєстрація
               </Link>
               <Link className="navbar-item" to="/about">
                 Корисна інформація
