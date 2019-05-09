@@ -3,8 +3,14 @@ import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import Pricing from '../components/Pricing'
 
-export const RegistrationPageTemplate = ({ title, content, contentComponent }) => {
+export const RegistrationPageTemplate = ({ 
+  title, 
+  content, 
+  contentComponent,
+  pricing 
+}) => {
   const PageContent = contentComponent || Content
 
   return (
@@ -17,6 +23,11 @@ export const RegistrationPageTemplate = ({ title, content, contentComponent }) =
                 {title}
               </h2>
               <PageContent className="content" content={content} />
+              <h2 className="has-text-weight-semibold is-size-2">
+                {pricing.heading}
+              </h2>
+              <p className="is-size-5">{pricing.description}</p>
+              <Pricing data={pricing.plans} />
             </div>
           </div>
         </div>
@@ -29,6 +40,11 @@ RegistrationPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
+  pricing: PropTypes.shape({
+    heading: PropTypes.string,
+    description: PropTypes.string,
+    plans: PropTypes.array,
+  })
 }
 
 const RegistrationPage = ({ data }) => {
@@ -40,6 +56,7 @@ const RegistrationPage = ({ data }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
+        pricing={post.frontmatter.pricing}
       />
     </Layout>
   )
@@ -57,6 +74,16 @@ export const registrationPageQuery = graphql`
       html
       frontmatter {
         title
+        pricing {
+          heading
+          description
+          plans {
+            description
+            items
+            plan
+            price
+          }
+        }
       }
     }
   }
