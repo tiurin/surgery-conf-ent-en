@@ -29,11 +29,6 @@ const ProductPagePreview = ({ entry, getAsset }) => {
           alt: entry.getIn(['data', 'main', 'image3', 'alt']),
         },
       }}
-      pricing={{
-        heading: entry.getIn(['data', 'pricing', 'heading']),
-        description: entry.getIn(['data', 'pricing', 'description']),
-        plans: pricingPlans,
-      }}
     />
   )
 }
