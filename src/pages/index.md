@@ -17,6 +17,8 @@ intro:
   description: '?'
   heading: '?'
 ---
+![](/img/anons-conferenc_child_surgery_2019_logo.jpeg)
+
 **Привітання**
 
 Шановні колеги!
