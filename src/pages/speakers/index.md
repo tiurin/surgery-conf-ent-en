@@ -1,6 +1,5 @@
 ---
 templateKey: speakers-page
-image: /img/speakers_2019_logo.png
 heading: 'Привітання від спікерів   '
 description: >-
   Привітання участикам конференціі, що особисто були надійслані нашими шановними

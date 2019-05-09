@@ -6,22 +6,12 @@ import Features from '../components/Features'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const SpeakersPageTemplate = ({
-  image,
   heading,
   description,
   intro,
   main
 }) => (
   <div className="content">
-    <div
-      className="full-width-image-container margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-      }}
-    >
-    </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -94,7 +84,6 @@ const SpeakersPage = ({ data }) => {
   return (
     <Layout>
       <SpeakersPageTemplate
-        image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
@@ -120,13 +109,6 @@ export const speakersPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         heading
         description
         intro {
