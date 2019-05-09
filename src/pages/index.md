@@ -1,6 +1,5 @@
 ---
 templateKey: index-page
-image: /img/grow3.jpeg
 intro:
   blurbs:
     - image: /img/dubrovin3.jpg

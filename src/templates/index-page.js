@@ -7,7 +7,6 @@ import Features from '../components/Features'
 import Content, { HTMLContent } from '../components/Content'
 
 export const IndexPageTemplate = ({
-  image,
   content, 
   contentComponent,
   intro,
@@ -16,17 +15,6 @@ export const IndexPageTemplate = ({
   return (
 
   <div>
-    <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-      }}
-    >
-    </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -60,7 +48,6 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={post.frontmatter.image}
         content={post.html}
         intro={post.frontmatter.intro}
         contentComponent={HTMLContent}
@@ -83,14 +70,7 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       html
-      frontmatter {
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }      
+      frontmatter {     
         intro {
           blurbs {
             image {

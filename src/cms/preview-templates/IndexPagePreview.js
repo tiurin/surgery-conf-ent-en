@@ -8,7 +8,6 @@ const IndexPagePreview = ({ entry, widgetFor }) => {
   if (data) {
     return (
       <IndexPageTemplate
-        image={data.image}
         content={widgetFor('body')}
         intro={data.intro || { blurbs: [] }}
       />
