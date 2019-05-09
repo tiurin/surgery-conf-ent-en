@@ -47,7 +47,7 @@ intro:
 
         Голова служби дитячої хірургії Університетського Госпіталя Вааль
         д’Хеброн, Барселона, Іспанія
-    - image: /img/kapullerphoto.jpg
+    - image: /img/kapullerphoto2.jpg
       text: >
         Шановні ДРУЗІ! 
 
