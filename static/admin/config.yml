@@ -54,6 +54,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "workshop-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/registration/index.md"
+        label: "Реєстрація"
+        name: "registration"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "registration-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/sponsors/index.md"
         label: "Спонсори"
         name: "sponsors"
