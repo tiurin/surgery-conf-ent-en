@@ -1,5 +1,5 @@
 ---
-templateKey: product-page
+templateKey: speakers-page
 image: /img/speakers_2019_logo.png
 heading: 'Привітання від спікерів   '
 description: >-
