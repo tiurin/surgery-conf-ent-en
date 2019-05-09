@@ -10,6 +10,6 @@ import WorkshopPagePreview from './preview-templates/WorkshopPagePreview'
 CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('program', ProgramPagePreview)
-CMS.registerPreviewTemplate('sponsors', WorkshopPagePreview)
+CMS.registerPreviewTemplate('workshop', WorkshopPagePreview)
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 CMS.registerPreviewTemplate('sponsors', SponsorsPagePreview)
