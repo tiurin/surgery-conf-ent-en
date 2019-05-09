@@ -8,7 +8,6 @@ const SponsorsPagePreview = ({ entry, getAsset }) => {
 
   return (
     <SponsorsPageTemplate
-      image={entry.getIn(['data', 'image'])}
       heading={entry.getIn(['data', 'heading'])}
       description={entry.getIn(['data', 'description'])}
       intro={{ blurbs }}

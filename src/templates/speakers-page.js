@@ -62,7 +62,6 @@ export const SpeakersPageTemplate = ({
 )
 
 SpeakersPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,

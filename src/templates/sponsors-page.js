@@ -5,21 +5,11 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 
 export const SponsorsPageTemplate = ({
-  image,
   heading,
   description,
   intro
 }) => (
   <div className="content">
-    <div
-      className="full-width-image-container margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-      }}
-    >
-    </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
@@ -41,7 +31,6 @@ export const SponsorsPageTemplate = ({
 )
 
 SponsorsPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   heading: PropTypes.string,
   description: PropTypes.string,
   intro: PropTypes.shape({
@@ -55,7 +44,6 @@ const SponsorsPage = ({ data }) => {
   return (
     <Layout>
       <SponsorsPageTemplate
-        image={frontmatter.image}
         heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
@@ -78,13 +66,6 @@ export const sponsorsPageQuery = graphql`
   query SponsorsPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         heading
         description
         intro {
