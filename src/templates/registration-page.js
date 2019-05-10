@@ -19,15 +19,15 @@ export const RegistrationPageTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+              <h2 className="title is-size-2 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
-              <PageContent className="content" content={content} />
-              <h2 className="has-text-weight-semibold is-size-2">
+              <h3 className="has-text-weight-semibold is-size-3">
                 {pricing.heading}
-              </h2>
+              </h3>
               <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
+              <PageContent className="content" content={content} />
             </div>
           </div>
         </div>
