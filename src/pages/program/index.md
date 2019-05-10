@@ -3,6 +3,18 @@ templateKey: program-page
 title: >-
   Орієнтовна програма конференції (слідкуйте за оновленнями) Approximate
   conference program (follow the updates)
+main:
+  description: '?'
+  heading: '?'
+  image1:
+    alt: '?'
+    image: /img/favicon-16x16.png
+  image2:
+    alt: Я
+    image: /img/apple-touch-icon.png
+  image3:
+    alt: '?'
+    image: /img/apple-touch-icon.png
 ---
 ![](/img/увага2.jpg)
 
@@ -18,48 +30,31 @@ title: >-
 
 РЕЄСТРАЦІЯ УЧАСНИКІВ. ВІТАЛЬНА КАВА.
 
-
-
 8.45-9.00 Opening. GREETING. 
 
 Відкриття конференції. ПРИВІТАННЯ. 
 
-
-
-1. засідання /session 
+**Перше засідання / 1 session** 
 
 
 
 11.05-13.00 LIVE SURGERY / Жива хірургія 
 
-
-
 1- OR – дитяча хірургія
 
 2- OR– урологія
 
-
-
 13.00-13.45 DINNER/ОБІД 
 
-
-
-2.  засідання /session 
-
-
+**Друге засідання / 2 session** 
 
 
 
 14.55-16.55 LIVE SURGERY / Жива хірургія 
 
-
-
 1-OR – диятча хірургія
 
-
-
-3.  засідання /session 
-
+**Третє засідання /3 session** 
 
 18.45-19.00 Discussion, questions and answers / Дискусія, питання-відповіді
 
