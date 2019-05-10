@@ -43,8 +43,6 @@ main:
 
 **Перше засідання / 1 session** 
 
-
-
 11.05-13.00 LIVE SURGERY / Жива хірургія 
 
 1- OR – дитяча хірургія
@@ -54,8 +52,6 @@ main:
 13.00-13.45 DINNER/ОБІД 
 
 **Друге засідання / 2 session** 
-
-
 
 14.55-16.55 LIVE SURGERY / Жива хірургія 
 
@@ -79,7 +75,6 @@ CONCLUSIONS first day of the conference
 
 **Перше засідання /1 session**
 
-
 11.15-13.15 LIVE SURGERY / Жива хірургія
 
 1-OR – дитяча хірургія
@@ -89,6 +84,8 @@ CONCLUSIONS first day of the conference
 13.15-14.00 DINNER/ОБІД
 
 **Друге засідання /2 session**
+
+
 16.45-17.00 Closing the conference. Presenting certificates.
 
 ПІДВЕДЕННЯ ПІДСУМКІВ. Закриття конференції. Вручення сертифікатів.
