@@ -1,7 +1,7 @@
 ---
 templateKey: sponsors-page
 heading: Спонсори
-description: 'Конференція є можливою завдяки підтримці нашіх спонсорів:'
+description: 'Конференція є можливою завдяки підтримці наших спонсорів:'
 intro:
   blurbs:
     - image: /img/images.jpg
