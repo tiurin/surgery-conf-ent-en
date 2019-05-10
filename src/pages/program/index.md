@@ -12,36 +12,56 @@ title: >-
 
 ### День 1
 
-**19 вересня/September  (четвер/Thursday)**
+**19 вересня/September  (четвер/Thursday)** 
 
 8.00-8.45 REGISTRATION. Welcome coffee. 
 
 РЕЄСТРАЦІЯ УЧАСНИКІВ. ВІТАЛЬНА КАВА.
 
+
+
 8.45-9.00 Opening. GREETING. 
 
 Відкриття конференції. ПРИВІТАННЯ. 
 
-1. засідання /session
+
+
+1. засідання /session 
+
 
 
 11.05-13.00 LIVE SURGERY / Жива хірургія 
+
+
 
 1- OR – дитяча хірургія
 
 2- OR– урологія
 
+
+
 13.00-13.45 DINNER/ОБІД 
 
-2. засідання /session
+
+
+2.  засідання /session 
+
+
+
 
 
 14.55-16.55 LIVE SURGERY / Жива хірургія 
 
+
+
 1-OR – диятча хірургія
 
-3. засідання /session
-   18.45-19.00 Discussion, questions and answers / Дискусія, питання-відповіді
+
+
+3.  засідання /session 
+
+
+18.45-19.00 Discussion, questions and answers / Дискусія, питання-відповіді
 
 CONCLUSIONS first day of the conference
 
