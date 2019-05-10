@@ -79,24 +79,5 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
-main:
-  heading: ЖИВА ХІРУРГІЯ
-  description: >
-    Проведення наукових форумів неможливо без використання телекомунікаційних
-    технологій. Вже вкотре завдяки компанії Карл Шторц Україна двері своїх
-    операційних відкриє для учасників конференції універсальна клініка "Оберіг".
-    Під "прицілом" відеокамер провідні спеціалісти виконають ряд втручань, які
-    можна буде дивитись в режимі реального часу; відеоконференція запеспечить
-    спілкування з операційною бригадою лікарів з конференц-залу, із можливістю
-    задати будь-яке питання щодо операції і негайно отримати коментарії.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/zhiv.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/яршм2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/img_6683.jpg
 ---
 
