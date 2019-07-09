@@ -27,143 +27,145 @@ main:
 
 **19 вересня /September (четвер/Thursday)**
 
-****
+- - -
 
 **8.00-8.45 РЕЄСТРАЦІЯ УЧАСНИКІВ. ВІТАЛЬНА КАВА.**
 
 **REGISTRATION. Welcome coffee.** 
 
-****
+- - -
 
 **8.45-9.00 Відкриття конференції. ПРИВІТАННЯ.** 
 
 **Opening. GREETING.** 
 
-****
+- - -
 
 **9.00-9.30** Особливості роботи дитячого хірурга в Ізраїлі
 
 Features of work of pediatric surgeon in Israel
 
-**Вадим Капуллер (Ізраїль)**
+**Вадим Капуллер (Ізраїль) / Vadim Kapuller (Israel)**
 
-****
+- - -
 
 **9.30-10.00** Сучасне використання роботохірургії в дитячій урології
 
 Current application of robotic approach in pediatric Urology 
 
-**Євген Миневич (США)**
+**Євген Миневич (США) / Eugene Minevich (USA)**
 
-****
+- - -
 
 **10.00-10.30** Переваги використання малоінвазивних технологій у дітей
 
 Advances in Technology of MIS in Children
 
-**Мунтер Хаддад (Великобританія)**
+**Мунтер Хаддад (Великобританія) / Munther Haddad (UK)**
 
-****
+- - -
 
 **10.30-11.00** Консервативна хірургія нирки при нефробластомі
 
-Conservative renal surgery for nephroblastoma ****
+Conservative renal surgery for nephroblastoma 
 
-**Удрі Жорже (Франція)**
+- - -
 
-****
+**Удрі Жорже (Франція) / Audry Georges (France)**
+
+- - -
 
 **11.05-13.00 Жива хірургія / LIVE SURGERY**
 
-****
+- - -
 
 **1-	OR – Абдоминальный крипторхизм  Годік/Устенко**
 
-****
+- - -
 
 **2- OR– Операція: аугментація з умбілікоцистостомією  Миневич/Устенко/Годік**
 
-****
+- - -
 
 **13.00-13.45 ОБІД/ DINNER** 
 
-****
+- - -
 
 **13.45 -14.15.** Торакоскопічне лікування ексудативного перикардиту 
 
 Managment of pericardial effusion by thoracoscopy 
 
-**Мануель Лопез (Іспанія)**
+**Мануель Лопез (Іспанія) / Manuel Lopez (Spain)**
 
-****
+- - -
 
 **14.15-14.45.** Лікування діафрагмальної кили із використанням малоінвазивних технологій
 
 MIS diaphragmatic hernia 
 
-**Хорхе Годой Ленц (Чілі)**
+**Хорхе Годой Ленц (Чілі) / Jorge Godoy Lenz (Chili)**
 
-****
+- - -
 
 **14.25-14.55** Як виходити із складних ситуацій при лікуванні трахеостравохідної нориці із використанням малоінвазивних технологій
 
 How resolved diffuclt conditions in TEF by MIS
 
-**Мануель Лопез (Іспанія)**
+**Мануель Лопез (Іспанія) / Manuel Lopez (Spain)**
 
-****
+- - -
 
-****
+- - -
 
 **14.55-16.55 Жива хірургія / LIVE SURGERY**
 
-****
+- - -
 
 **1-OR –** 
 
-****
+- - -
 
 **16.55 - 17.25** Сучасний підхід до лікування уролітіазу в педіатричній практиці із використанням малоінвазивних технологій
 
 Management of the pediatric urolithiasis, in particularly current miniinvasive approach 
 
-**Сердар Текгюль (Туреччина)**
+**Сердар Текгюль (Туреччина) / Serdar Tekgül (Turkey)**
 
-****
+- - -
 
 **17.25 -17.45** Нефролітіаз в педіатричній практиці: ситуація, що потребує мультидисциплінарного підходу в умовах спеціалізованого центру для дітей з сечокам’яною хворобою 
 
-Pediatric Nephrolithiasis: The Case for a Multi-Disciplinary Pediatric Stone Center ****
+Pediatric Nephrolithiasis: The Case for a Multi-Disciplinary Pediatric Stone Center 
 
-**Євген Миневич (США)**
+- - -
 
-****
+**Євген Миневич (США) / Eugene Minevich (USA)**
+
+- - -
 
 **17.45 – 18.15** Коли та як? Пластика лоханочно-сечоводного сегменту
 
 When and How? UPJ repair. 
 
-**Сердар Текгюль (Туреччина)**
+**Сердар Текгюль (Туреччина) / Serdar Tekgül (Turkey)**
 
-****
+- - -
 
 **18.15–18.45** Лапароскопічне лікування обструктивного мегауретеру
 
 Managment of OMGU by laparoscopy 
 
-**Мануель Лопез (Іспанія)**
+**Мануель Лопез (Іспанія) / Manuel Lopez (Spain)**
 
-****
+- - -
 
 **18.45-19.00** Дискусія, питання-відповіді / Discussion, questions and answers
-
-
 
 **ПІДВЕДЕННЯ ПІДСУМКІВ першого дня конференції**
 
 **CONCLUSIONS of the first day of the conference**
 
-****
+- - -
 
 ### День 2
 
