@@ -73,6 +73,10 @@ intro:
         голова відділення дитячої урології, директор Міжнародного освітнього
         центру з дитячої урології  "Stone Center", дитяча лікарня м. Цинцинатті,
         Огайо, США
+    - image: /img/027.jpg
+      text: Мунтер Дж. Хаддад
+    - image: /img/georges.jpg
+      text: 'Удрі Жорже '
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
