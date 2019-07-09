@@ -53,7 +53,7 @@ Features of work of pediatric surgeon in Israel
 
 Current application of robotic approach in pediatric Urology 
 
-**Юджин Миневич (США)**
+**Євген Миневич (США)**
 
 ****
 
@@ -135,7 +135,7 @@ Management of the pediatric urolithiasis, in particularly current miniinvasive a
 
 Pediatric Nephrolithiasis: The Case for a Multi-Disciplinary Pediatric Stone Center ****
 
-**Юджин Миневич (США)**
+**Євген Миневич (США)**
 
 ****
 
