@@ -71,7 +71,7 @@ Conservative renal surgery for nephroblastoma
 
 - - -
 
-**Удрі Жорже (Франція) / Audry Georges (France)**
+**Адрю Жорже (Франція) / Audry Georges (France)**
 
 - - -
 
