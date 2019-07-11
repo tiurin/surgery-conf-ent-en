@@ -23,7 +23,7 @@ main:
     alt: '?'
     image: /img/img_6683.jpg
 ---
-### День 1
+### День 1 / Day 1
 
 **19 вересня /September (четвер/Thursday)**
 
