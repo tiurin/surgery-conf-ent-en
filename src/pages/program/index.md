@@ -69,8 +69,6 @@ Advances in Technology of MIS in Children
 
 Conservative renal surgery for nephroblastoma 
 
-- - -
-
 **Адрю Жорже (Франція) / Audry Georges (France)**
 
 - - -
@@ -115,8 +113,6 @@ How resolved diffuclt conditions in TEF by MIS
 
 - - -
 
-- - -
-
 **14.55-16.55 Жива хірургія / LIVE SURGERY**
 
 - - -
@@ -136,8 +132,6 @@ Management of the pediatric urolithiasis, in particularly current miniinvasive a
 **17.25 -17.45** Нефролітіаз в педіатричній практиці: ситуація, що потребує мультидисциплінарного підходу в умовах спеціалізованого центру для дітей з сечокам’яною хворобою 
 
 Pediatric Nephrolithiasis: The Case for a Multi-Disciplinary Pediatric Stone Center 
-
-- - -
 
 **Євген Миневич (США) / Eugene Minevich (USA)**
 
@@ -171,21 +165,21 @@ Managment of OMGU by laparoscopy
 
 **20 вересня / September (п’ятниця/Friday)**
 
-****
+- - -
 
 **8.30-9.00 РАНКОВА КАВА**
 
 **MORNING COFFEE**
 
-****
+- - -
 
 **9.00-9.30** Лапароскопічне лікування атрезії дванадцятипалої кишки
 
-Duodenal atresia laparoscopic approach ****
+Duodenal atresia laparoscopic approach 
 
 **Хорхе Годой Ленц (Чілі) / Jorge Godoy Lenz (Chili)**
 
-****
+- - -
 
 **9.30-10.00** Хвороба Гіршпрунга: діагностичний та лікувальний алгоритми, результати та ускладнення
 
@@ -193,7 +187,7 @@ Hirschprung’s disease: diagnostic algorithm and treatment, results and complic
 
 **Вадим Капуллер (Ізраїль) / Vadim Kapuller (Israel)**
 
-****
+- - -
 
 **10.00-10.15** Ранні та віддалені результати після трансректального ендоректального зведення у дітей з хворобою Гіршпрунга
 
@@ -201,15 +195,15 @@ Early and long term follow up results after endorectal pull-through in children 
 
 **Василь Притула (Україна) / Vasyl Prytula (Ukraine)**
 
-****
+- - -
 
 **10.30-10.40** Досвід використання ендоваскулярної емболізації селезінкової артерії для корекції важкого гіперспленізму у дітей з портальною гіпертензією. 
 
-Experience with the application of endovascular spleen artery embolization for severe hypersplenism management in children with portal hypertension****
+Experience with the application of endovascular spleen artery embolization for severe hypersplenism management in children with portal hypertension
 
-**Кандратьєва Ольга (Білорусь) / Kondratieva Olga (Belarus)**
+**Кандратьєва Ольга (Білорусь) / Kandratieva Olga (Belarus)**
 
-****
+- - -
 
 **10.40-10.50** Лігування варикозно-розширених вен стравоходу 
 
@@ -217,7 +211,7 @@ Band ligation of esophageal varices
 
 **Дар’я Вороняк (Україна) / Daria Voroniak (Ukraine)**
 
-****
+- - -
 
 **10.50 -11.00** Хірургічне лікування синдрому портальної гіпертензії у дітей
 
@@ -225,7 +219,7 @@ Surgical management of portal hypertension in children
 
 **Заполянський Андрій (Білорусь) / Zapolianskiy Andrey (Belarus)**
 
-****
+- - -
 
 **11.00-11.10** Хірургія портальної гіпертензії
 
@@ -233,7 +227,7 @@ Surgery of portal hypertension
 
 **Олег Годік (Україна) / Oleg Godik (Ukraine)**
 
-****
+- - -
 
 **11.15-13.15 LIVE SURGERY Жива хірургія**
 
@@ -241,11 +235,11 @@ Surgery of portal hypertension
 
 **2-OR -**
 
-****
+- - -
 
 **13.15-14.00 DINNER/ОБІД**
 
-****
+- - -
 
 **14.00-14.15** Circumcisio – по-перше, це красиво
 
@@ -253,7 +247,7 @@ Circumcisio – first of all, it is beautiful
 
 **Вадим Капуллер (Ізраїль) / Vadim Kapuller (Israel)**
 
-****
+- - -
 
 **14.15-14.45** Хірургічне лікування гіпоспадії
 
@@ -261,7 +255,7 @@ Surgery of hypospadias
 
 **Удрі Жорже (Франція) / Audry Georges (France)**
 
-****
+- - -
 
 **14.45-14.55** Хірургічне лікування аномалій розвитку жіночих статевих органів у дівчат та підліків.
 
@@ -269,7 +263,7 @@ Surgical management of female genital organs developmental anomalies in infants 
 
 **Бачинська Інна (Україна) / Bachynska Inna (Ukraine)**
 
-****
+- - -
 
 **14.55-15.05** Пінна склеротерапія в лікуванні венозних мальформацій у дітей.
 
@@ -277,7 +271,7 @@ Foam sclerotherapy for the management of venous malformations in children.
 
 **Мазынский Денис (Білорусь) / Myzinskiy Denis (Belarus)**
 
-****
+- - -
 
 **15.05-15.15** Диференційний підхід у лікуванні судинних мальформацій у дітей. 
 
@@ -285,15 +279,15 @@ Differential approach in vascular malformations management in children
 
 **Ірина Бензар (Україна) / Iryna Benzar (Ukraine)**
 
-****
+- - -
 
 **15.50-16.00** Реваскуляризація кишкового транслантату при езофагоколопластиці у дітей.
 
-Bowel transplant revascularization for esophago-colo-plasty in children****
+Bowel transplant revascularization for esophago-colo-plasty in children
 
 **Аверин Василь (Білорусь) / Averin Vasyl (Belarus)**
 
-****
+- - -
 
 **16.00-16.15** Варіанти замісних пластик стравоходу у дітей
 
@@ -301,7 +295,7 @@ Alternate esophageal replacement options in children
 
 **Дубровін Олександр (Україна) / Dubrovin Oleksandr (Ukraine)**
 
-****
+- - -
 
 **16.30-16.45** Лапароскопія в дитячій та підлітковій гінекології 
 
@@ -309,7 +303,7 @@ Laparoscopy in pediatric and adolescent gynaecology
 
 **Бачинська Інна (Україна) / Bachynska Inna (Ukraine)**
 
-****
+- - -
 
 **16.45-17.00 ПІДВЕДЕННЯ ПІДСУМКІВ. Закриття конференції. Вручення сертифікатів.**
 
