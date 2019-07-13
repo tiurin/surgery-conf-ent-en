@@ -51,7 +51,7 @@ Features of work of pediatric surgeon in Israel
 
 **9.30-10.00** Сучасне використання роботохірургії в дитячій урології
 
-Current application of robotic approach in pediatric Urology 
+Current status of robotic surgery in pediatric Urology 
 
 **Євген Миневич (США) / Eugene Minevich (USA)**
 
