@@ -40,7 +40,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              Головна
+              Home Page
             </Link>
             {/* Hamburger menu */}
             <div
@@ -59,25 +59,28 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">
               <Link className="navbar-item" to="/program">
-                Програма
+                Program
               </Link>
               <Link className="navbar-item" to="/speakers">
-                Спікери
+                Speakers
               </Link>
               <Link className="navbar-item" to="/registration">
-                Реєстрація
+                Registration
               </Link>
               <Link className="navbar-item" to="/workshop">
-                Майстер-клас
+                Workshop
               </Link>
               <Link className="navbar-item" to="/sponsors">
-                Спонсори
+                Sponsors
               </Link>
               <Link className="navbar-item" to="/about">
-                Корисна інформація
+                Useful Info
               </Link>
               <Link className="navbar-item" to="/contact">
-                Контакт
+                Contact Us
+              </Link>
+              <Link className="navbar-item" to="https://www.surgeryconf.info/">
+                Українська версія
               </Link>
             </div>
           </div>
