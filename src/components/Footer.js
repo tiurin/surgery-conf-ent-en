@@ -17,22 +17,22 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Головна сторінка
+                        Home Page
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/program">
-                        Програма
+                        Program
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/speakers">
-                        Спікери
+                        Speakers
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/registration">
-                        Реєстрація
+                        Registration
                       </Link>
                     </li>
                     <li>
@@ -53,22 +53,22 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/workshop">
-                        Майстер-клас
+                        Workshop
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/sponsors">
-                        Спонсори
+                        Sponsors
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        Корисна інформація
+                        Useful Info
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Контакт
+                        Contact
                       </Link>
                     </li>
                   </ul>

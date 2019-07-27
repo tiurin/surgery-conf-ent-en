@@ -11,21 +11,21 @@ collections:
     label: "Pages"
     files:
       - file: "src/pages/index.md"
-        label: "Головна"
+        label: "Home Page"
         name: "index"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - file: "src/pages/about/index.md"
-        label: "Корисна інформація"
+        label: "Useful Info"
         name: "about"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/program/index.md"
-        label: "Програма конференції"
+        label: "Program"
         name: "program"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "program-page"}
@@ -33,7 +33,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
       - file: "src/pages/speakers/index.md"
-        label: "Спікери"
+        label: "Speakers"
         name: "speakers"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "speakers-page"}
@@ -41,14 +41,14 @@ collections:
           - {label: Description, name: description, widget: string}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - file: "src/pages/workshop/index.md"
-        label: "Майстер-клас"
+        label: "Workshop"
         name: "workshop"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "workshop-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/registration/index.md"
-        label: "Реєстрація"
+        label: "Registration"
         name: "registration"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "registration-page"}
@@ -56,7 +56,7 @@ collections:
           - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/sponsors/index.md"
-        label: "Спонсори"
+        label: "Sponsors"
         name: "sponsors"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "sposors-page"}
@@ -64,7 +64,7 @@ collections:
           - {label: Description, name: description, widget: string}
           - {label: Intro, name: intro, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
       - file: "src/pages/contact/index.md"
-        label: "Контакт"
+        label: "Contact"
         name: "contact"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
