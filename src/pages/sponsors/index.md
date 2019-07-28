@@ -1,7 +1,9 @@
 ---
 templateKey: sponsors-page
-heading: Спонсори
-description: 'Конференція є можливою завдяки підтримці наших спонсорів:'
+heading: Sponsors
+description: >-
+  “VII INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE ON MINIMAL IVNASIVE
+  PEDIATRIC SURGERY & UROLOGY 2019” is possible thanks to our sponsors:
 intro:
   blurbs:
     - image: /img/images.jpg
@@ -9,6 +11,6 @@ intro:
         KARL STORZ Ukraine
     - image: /img/no-translate-detected_318-58762.jpg
       text: |
-        тут може бути ваше лого
+        your logo can be here
 ---
 
