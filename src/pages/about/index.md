@@ -1,27 +1,27 @@
 ---
 templateKey: about-page
-title: Корисна інформація
+title: useful info
 ---
 ![клініка "Оберіг"](/img/обериг.jpg "клініка \"Оберіг\"")
 
-### Універсальна клініка "Оберіг"
+### "Oberig" clinic
 
-Медичний центр «Універсальна клініка «Оберіг» (ТОВ «КАПИТАЛ») – один з найбільших приватних інвестиційних проектів в галузі охорони здоров’я України. Розпочавши роботу в травні 2008 року, заклад ствердився як сучасна недержавна багатопрофільна лікарня, де мають змогу отримувати амбулаторну і стаціонарну медичну допомогу високої якості громадяни України та пацієнти з усього світу. Клініка не байдужа й до науково-освітніх проектів, отож вже всьоме гостинно відчиняє свої двері для шановних гостей і учасників конференції "Малоінвазивна Хірургія та Урологія дитячого віку".
+Medical center "Oberig "(LLC "Kapital") is one of the biggest private investment projects in the field of Healthcare. Since May 2008, it established itself as a modern institution of nongovernmental hospital, where outpatient and inpatient medical care of high quality is provided for Ukrainian citizens and patients from around the world. Clinic cares for scientific and educational projects, so it is the 8th time it warmly welcomes all the speakers and guests of  VII INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE ON “MINIMAL IVNASIVE PEDIATRIC SURGERY & UROLOGY 2019” 
 
 ![карта](/img/карта22.png "карта")
 
-### Як дістатися клініки "Оберіг"?
+### How to get to "Oberig" clinic?
 
-адреса: 03057, Україна, м. Київ, вул. вул. Зоологічна, 3, корпус «В» 
+address: 03057, Ukraine, Kyiv, Zoologichna street, 3, bulk «В» 
 
-Маршрутне таксі від станції метро «Берестейська» (їхати по вул. Дегтярівській до вул. Зоологічна)
+public minibus taxi from «Beresteyska» subway station (goes along Degtiarovska street to bus stop named Zoologichna)
 
-Маршрутне таксі від станції метро «Лук'янівська» (їхати по вул. Дегтярівській до вул. Зоологічна)
+public minibus taxi from «Lukianivska» subway station (goes along Degtiarovska street to bus stop named Zoologichna)
 
-Маршрутне таксі від станції метро «Політехнічний інститут» (їхати по проспекту Перемоги до вул. Зоологічна)
+public minibus taxi from «Plytechnichny institut» subway station (goes along Peremohy Avenue to Zoologichna street
 
 ![готелы](/img/карта-гостишки22.png "готелы")
 
-### Найближчі готелі до клініки "Оберіг"
+### Hotels 
 
-Поблизу клініки "Оберіг" велика кількість готелів, ви з легкістю оберете, де зупинитися на час проведення конференції
+There are many hotels within an easy reach to clinic "Oberig". You will be able to choose one without any difficulties
