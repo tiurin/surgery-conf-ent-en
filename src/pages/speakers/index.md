@@ -1,90 +1,91 @@
 ---
 templateKey: speakers-page
-heading: 'Привітання від спікерів   '
+heading: Speakers' greetings
 description: >-
-  Привітання участикам конференціі, що особисто були надіслані нашими шановними
-  спікерами
+  Warm greetings were sent to conference participants from our distinguished
+  speakers
 intro:
   blurbs:
     - image: /img/jorgephoto.jpeg
       text: >
-        Шановні колеги та друзі! Хочу запросити вас взяти участь у VII
-        Науково-практичній конференції з міжнародною участю «МАЛОІНВАЗИВНА
-        ХІРУРГІЯ ТА УРОЛОГІЯ ДИТЯЧОГО ВІКУ 2019», що буде проходити в Києві. Цей
-        конгрес стане чудовою можливістю задля обміну інформацією в дружньому та
-        високоякісному науковому середовищі з експертами з різних куточків
-        світу. 
+        Dear colleagues and friends
 
-        Ми впевнені, що ваша присутність на цьому заході принесе вам велику
-        користь.
+        I wish to invite you to participate in the VII International Scientific
+        and Practical Conference on Minimally Invasive Pediatric Surgery and
+        Urology to be held in Kiev.
 
-        Побачимось в Україні (19-20 Вересня, 2019)!  
+        This congress will be a great opportunity to share in a friendly and
+        high level scientific environment with experts from different countries
+        of the world.
 
+        We are convinced that with your presence this event will be a great
+        success.
+         See you in Ukraine (September 19-20, 2019)
+         Jorge Godoy Lenz
 
-        Хорхе Годой Ленц
-
-        керівник служби дитячої хірургії Лікарні Сан Хуан де Діос та Клініки Лас
-        Кондес, Сантьяго, Чілі
+        senior pediatric surgeon, Hospital San Juan de Dios and Clínica Las
+        Condes de Santiago, Santiago, Chili
     - image: /img/manuelphoto.jpg
       text: >-
-        Колеги та друзі
+        Colleagues & Friends
 
-        Я особисто запрошую вас відвідати VII Науково-практичну конференцію з
-        міжнародною участю «МАЛОІНВАЗИВНА ХІРУРГІЯ ТА УРОЛОГІЯ ДИТЯЧОГО ВІКУ
-        2019», що пройде в Києві 19-20 вересня на базі клініки «Оберіг». В
-        рамках цієї зустрічі буде проведено серію «живих» хірургічних втручань,
-        які будуть виконані різними провідними спеціалістами цієї галузі. У вас
-        буде можливість зустрітися з ними та задати їм різноманітні питання щодо
-        дитячої хірургії та урології. З нетерпінням чекаю на зустріч із кожним
-        із вас на цьому конгресі. Це буде чудово.
+        I personally invite you to attend the VII INTERNATIONAL SCIENTIFIC AND
+        PRACTICAL CONFERENCE ON MINIMAL IVNASIVE PEDIATRIC SURGERY & UROLOGY
+        2019 held in Kiev September 19-20 at the “Oberig”-clinic. This meeting
+        offers live surgeries performed by different leaders in MIS. You will
+        have the opportunity to meet all of them and discuss various topics in
+        Pediatric surgery and urology with them. 
 
 
-        З найтеплішими побажаннями,
+        Look forward to seeing each of you at the congress. It will be great.
 
-        професор Мануель Лопес,
+        Warm wishes,
 
-        Голова служби дитячої хірургії Університетського Госпіталя Вааль
-        д’Хеброн, Барселона, Іспанія
+        Manuel Lopez, professor,
+
+        MD, PhD, Head of the Pediatric Surgery Service of the University
+        Hospital Vall d 'Hebron, Barcelona, Spain.
     - image: /img/kapullerphoto22.jpg
-      text: >
-        Шановні ДРУЗІ! 
-
-        Дякую за надану можливість знову взяти участь у VII Науково-практичній
-        конференції з міжнародною участю «МАЛОІНВАЗИВНА ХІРУРГІЯ ТА УРОЛОГІЯ
-        ДИТЯЧОГО ВІКУ 2019». З нетерпінням чекаю зустрічі з вами, красенем
-        Києвом, з коханою Україною. Радий, що зустріч відбудеться у чудово
-        оснащеній клініці "Оберіг", в якій я мав честь та задоволення оперувати
-        та зустрічався з вами в попередні мої приїзди. 
-
-
-        Ваш Вадим Капуллер, провідний дитячий хірург Університетської Клініки
-        Хадасса, Єрусалим, Ізраїль. Випускник Дніпропетровського медичного
-        інститута
+      text: "Dear FRIENDS!\n\tI appreciate the opportunity to take part in the “VII INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE ON MINIMAL IVNASIVE PEDIATRIC SURGERY & UROLOGY 2019”. Can’t wait to meet you all again, and the beautiful Kiev, and beloved Ukraine. I’m glad the meeting is going to be held in the perfectly fitted with equipment “Oberig” clinic, where I’ve been already honored to perform surgeries within my previous visits.\n\tYours Sincerely,\n\tVadim Kapuller\nSenior Surgeon in the Dept. of Pediatric Surgery of Hadassah Medical Center, Jerusalem, Israel"
     - image: /img/rsz-serdartekgul.jpg
       text: >
-        Професор Сердар Текгюль,  відповідальний за курс дитячої урології
-        Університету Хаджеттепе, Секретар ESPU (Європейського Товариства Дитячих
-        Урологів), Голова Комітету з Розробки Рекомендацій з дитячої урології
-        EAU (Європейської Асоціації Урологів), Анкара, Туреччина
-    - image: /img/14_minevich-eugene_.jpg
-      text: >-
-        Професор Євген Миневич,
+        Serdar Tekgul
 
-        голова відділення дитячої урології, директор Міжнародного освітнього
-        центру з дитячої урології  "Stone Center", дитяча лікарня м. Цинцинатті,
-        Огайо, США
+
+        academic pediatric urologist, professor at Hacettepe University,
+        Secretary of ESPU, chair of EAU Pediatric Urology Guidelines Commitee,
+        Ankara, Turkey
+    - image: /img/14_minevich-eugene_.jpg
+      text: |
+        Eugene Minevich, MD,
+        Professor, Division of Pediatric Urology,
+        Chair, Pediatric Urology International Education
+        Director, Stone Center
+
+        Cincinnati Children's, 
+        Cincinnati, OH, USA
     - image: /img/027.jpg
       text: >-
-        Професор Мунтер Дж. Хаддад, головний консультант з дитячої та  хірургії
-        новонароджених Лікарні Челсі&Вестмінстера Національної Служби Охорони
-        Здоров'я та Лікарні Святої Марії, Почесний Старший Лектор Школи Медицини
-        Імперського Коледжу, Перший почесний Президент Сектору Близького Сходу
-        IPEG (Міжнародної Групи Дитячої Ендоскопічної Хірургії), Президент BAPS
-        (Британської Асоціації Дитячих Хірургів)
+        Munther J Haddad MBBCH FRCS (Glasg) FRCS (Eng) FRCPCH
+
+        Senior Consultant Paediatric & Neonatal Surgeon
+
+        Chelsea & Westminster Hospital NHS Foundation Trust and St.Mary's
+        Hospital
+
+        Honorary Senior  Lecturer Imperial College School of Medicine
+
+        First Honorary President of the IPEG Middle East Chapter
+
+        Former President of the British Association of Paediatric Endoscopic
+        Surgeons BAPES
     - image: /img/georges.jpg
-      text: >-
-        Професор Адрю Жорже, Голова служби дитячої хірургії Лікарні Арман-Трусо,
-        Париж, Франція
+      text: |-
+        Professeur Georges AUDRY
+
+        Chef de Service de Chirurgie Viscérale Pédiatrique
+
+        HOPITAL TROUSSEAU, Paris, France
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
