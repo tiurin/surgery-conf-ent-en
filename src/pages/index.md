@@ -10,7 +10,7 @@ intro:
     - image: /img/levickii.jpg
       text: >
         Head of pediatric surgery department at О.О. Bogomolets National Medical
-        University, professor A. Levitskiy
+        University, professor A.Levitskiy
     - image: /img/godik2.jpg
       text: >
         Head of Innovation technologies in pediatric surgery and urology center
