@@ -1,15 +1,15 @@
 ---
 templateKey: workshop-page
-title: Майстер-клас
+title: Workshop
 ---
 ![](/img/20141001_164555.jpg)
 
-### Майстер-клас
+### attention!
 
-В рамках конференції планується проведення майстер-класу «Як це роблю я», із залученням спікерів.
+It is  planned to hold a workshop "HOW I DO IT" within the conference with the participation of our speakers. 
 
-Кількість місць буде обмежена до 20.
+Seats are limited to 20 people.
 
-Не пропустіть можливість  перейняти мануальні навички безпосередньо від провідних хірургів.
+Don't miss the possibility to learn manual skills being guided bu prominent surgeons.
 
-Слідкуйте за оновленнями на сайті.
+Watch for updates!
