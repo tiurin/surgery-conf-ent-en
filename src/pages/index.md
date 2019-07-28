@@ -3,43 +3,38 @@ templateKey: index-page
 intro:
   blurbs:
     - image: /img/dubrovin3.jpg
-      text: |
-        Президент Всеукраїнської Асоціації дитячих хірургів, д.м.н., 
-        професор кафедри дитячої хірургії НМУ ім. О.О. Богомольця
-        О.Г. Дубровін
+      text: >
+        President of Ukrainian pediatric surgeons’ association, professor of
+        pediatric surgery department at О.О. Bogomolets National Medical
+        University O. Dubrovin
     - image: /img/levickii.jpg
-      text: "Завідувач кафедри дитячої хірургії НМУ ім. О.О. Богомольця, \nд.м.н., професор\t\nА.Ф. Левицький \n"
+      text: >
+        Head of pediatric surgery department at О.О. Bogomolets National Medical
+        University, professor A. Levitskiy
     - image: /img/godik2.jpg
-      text: "Керівник Центру інноваційних технологій в дитячій хірургії та урології Універсальної клініки «Оберіг», к.м.н., асистент кафедри дитячої хірургії НМУ ім. О.О. Богомольця\t\nО.С. Годік\n"
+      text: >
+        Head of Innovation technologies in pediatric surgery and urology center
+        of “Oberig” clinic, associate-professor of pediatric surgery department
+        at О.О. Bogomolets National Medical University O. Godik
     - image: /img/shvachka1.jpg
-      text: "Генеральний менеджер KARL STORZ в Україні\t\nВ.А. Швачка"
+      text: General manager KarlStorz Ukraine V. Shvachka
   description: '?'
   heading: '?'
 ---
 ![](/img/2019_no_flags.jpeg)
 
-# **Привітання**
+# **Greeting**
 
 Dear colleagues,
 
-Маємо велику честь запросити вас взяти участь в VII Науково-практичній
-конференції з міжнародною участю «МАЛОІНВАЗИВНА ХІРУРГІЯ ТА УРОЛОГІЯ
-ДИТЯЧОГО ВІКУ 2019» до Києва.
+We are honored to invite you to take part in VII INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE ON “MINIMAL IVNASIVE PEDIATRIC SURGERY & UROLOGY 2019” which will be held in Kyiv on September19-20 2019.
 
-Цей захід має важливу освітню, наукову та соціальну місію, він фокусується
-на актуальних питаннях та сучасних тенденціях дитячої хірургії та урології.
-В конференції візьмуть участь провідні фахівці галузі з багатьох країн
-світу. 
+This event has important educational, scientific and social missions being focused on topical issues and modern tendencies of pediatric surgery and urology. Opinion Leaders from many countries are involved as speakers to this conference.   
 
-Під час заходу будуть проведені цикли «живої хірургії». Учасники конференції
-отримають можливість відвідати майстер-клас «Як це роблю я», присвячений
-складним хірургічним випадкам.
+“Live surgery” broadcasts will be included to the program of the conference. Participants will get an opportunity to attend “HOW I DO IT” workshop, dedicated to challenging and complicated surgical cases.
 
-Маленькі пацієнти, яким в рамках даної конференції будуть виконані
-оперативні втручання, це, як правило, соціальні дітки, які просто не мають
-можливості отримати лікування за кордоном, а досвід проведення подібних
-хірургічних операцій в Україні, на жаль, невеликий.
+Little patients that will undergo surgical procedures within the conference are usually “social” kids, whose parents cannot afford treatment abroad; at the same time the experience of such operations in Ukraine is comparatively inconsiderable.
 
-Щиро сподіваємося, що участь у конференції стане корисною не тільки завдяки отриманим новим знанням і навичкам, але й надасть можливість втілити їх у повсякденну практичну діяльність дитячого хірурга та уролога.
+We hope sincerely that that being a participant of this meeting will be useful not only as a chance to gain some new knowledge and skills but also will offer a way to use them in your daily practice as pediatric surgeons and urologists.
 
-З повагою,
+Yours respectfully,
