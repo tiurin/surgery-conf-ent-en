@@ -1,21 +1,21 @@
 ---
 templateKey: contact-page
-title: Контакт
+title: Conact us!
 ---
 ![](/img/contacts.jpg)
 
-## Зв'язок з організаторами
+## How to liaise with conference providers?
 
-Якщо у вас залишились питання, ви можете зв'язатися з нами за допомогою електронної пошти 
+If you have any more question you can contact us via email:
 
 * oberigconference2019@gmail.com
 
-або за телефонами:
+either via phone:
 
-з питань щодо наукової або медичної частини конференції
+on scientific and medical matters
 
-* +38(050)5433781 Олег Годік
+* +38(050)5433781 Oleg Godik
 
-з організаційних питань або питань щодо оплати
+on organizational and payment matters
 
-* +38(063)6528581 Ірина Козлова
+* +38(063)6528581 Irina Kozlova
