@@ -1,43 +1,37 @@
 ---
 templateKey: registration-page
-title: Реєстрація
+title: Registration
 pricing:
   description: >-
-    Ранню реєстрацію завершено.  На теперішній час маємо 95 учасників. Прохання
-    до тих, хто отримав номер розрахункового рахунку, не зволікати з оплатою
-    задля остаточного підтвердження участі. Пізня реєстрація триває з 16.06.2019
-    по 01.09.2019  У вартість включено кофі-брейки та ланч. Вартість вказано в
-    українській гривні. Кількість місць обмежена до 120 учасників. Реєстрація на
-    місці передбачає несамовите бажання взяти учать в конференції, що виникло
-    безпосередньо в день її проведення, та вимагає сплати 2500₴ лікарем та
-    молодим лікарем або 1000₴ студентом. (Конференцію внесено до Реєстру
-    Конференцій МОЗ 2019)
-  heading: Умови участі в конференції
+    An early conference registration is already terminated. Late registration
+    deadline is 01.09.2019.  Costs include coffee-breaks and lunch. Prices are
+    mentioned in Ukrainian Hryvnia. Places are limited to 120 people. By now
+    we've got 102 participants.  учасників. On-site registration assumes that
+    2500₴ must be payed by a surgeon & young surgeon and 1000₴ by a student
+  heading: Modalities of participation
   plans:
-    - description: '>5 років після закінчення інтернатури'
+    - description: '>5 years after internship training'
       items:
-        - Рання реєстрація 1500₴ (тільки для тих
-        - хто пройшов реєстрацію до 15.06.2019)
-        - Пізня реєстрація 1750₴ (з 16.06.2019 по 01.09.2019)
-        - Реєстрація на місці 2500₴
-      plan: ЛІКАР-ХІРУРГ
+        - early registration 1500₴ (deadline 15.06.2019)
+        - late registration 1750₴ (16.06.2019 to 01.09.2019)
+        - on-site registration 2500₴
+      plan: SURGEON
       price: 1500₴ •1750₴  •2500₴
-    - description: інтерни та <5 років після закінчення інтернатури
+    - description: interns and <5 years after internship training
       items:
-        - Рання реєстрація 850₴ (тільки для тих
-        - хто пройшов реєстрацію до 15.06.2019)
-        - Пізня реєстрація 1100₴ (з 16.06.2019 по 01.09.2019)
-        - Реєстрація на місці 2500₴
-      plan: 'МОЛОДИЙ ЛІКАР '
+        - early registration 850₴ (deadline 15.06.2019)
+        - late registration 1100₴ ( 16.06.2019 to 01.09.2019)
+        - on-site registration 2500₴
+      plan: YOUNG SURGEON
       price: •850₴  •1100₴  •2500₴
-    - description: при наявності дійсного студентського посвідчення
+    - description: with valid student ID
       items:
-        - Рання реєстрація 400₴ (з 15.05.2019 по 15.06.2019)
-        - Пізня реєстрація 400₴ (з 16.06.2019 по 01.09.2019)
-        - Реєстрація на місці 1000₴
-      plan: 'СТУДЕНТИ '
+        - early registration 400₴ (deadline 15.06.2019)
+        - late registration 400₴ ( 16.06.2019 to 01.09.2019)
+        - on-site registration 1000₴
+      plan: STUDENTS
       price: •400₴   •400₴  •1000₴
 ---
-### Реєстраційна форма
+### Registration form
 
-Посилання на реєстраційну форму ви [знайдете тут](https://dariadiehtiarova.typeform.com/to/APLqPo)
+can be found [here](https://dariadiehtiarova.typeform.com/to/APLqPo)
