@@ -1,6 +1,6 @@
 ---
 templateKey: contact-page
-title: Conact us!
+title: Contact us!
 ---
 ![](/img/contacts.jpg)
 
