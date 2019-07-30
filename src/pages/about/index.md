@@ -14,7 +14,7 @@ The first and the second days of the meeting - rhinosurgery, 19-20.11.2019 - wil
 
 The third and the fourth days of the meeting - otosurgery, 21-22.11.2019 - will take place at Menorah Ballroom (2-nd floor of MENORAH Hotel) 
 
-![готелы](/img/2й-этаж.jpg "готелы")
+![готелы](/img/kc-ballroom-01.jpg "готелы")
 
 ### How to reach the Menorah Hotel?
 
