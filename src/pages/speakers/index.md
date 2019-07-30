@@ -9,67 +9,34 @@ intro:
         Bereznuk Volodymyr Vasiliovych – Prof. MD Honored Doctor of Ukraine,
         Head of otorhinolaryngology Department in the "Dnipropetrovsk Medical
         Academy of the Ministry of Health of Ukraine"
-    - image: /img/manuelphoto.jpg
+    - image: /img/prof.-dr.-enis-alpin-güneri-02.jpg
       text: >-
-        Colleagues & Friends
-
-        I personally invite you to attend the VII INTERNATIONAL SCIENTIFIC AND
-        PRACTICAL CONFERENCE ON MINIMAL IVNASIVE PEDIATRIC SURGERY & UROLOGY
-        2019 held in Kiev September 19-20 at the “Oberig”-clinic. This meeting
-        offers live surgeries performed by different leaders in MIS. You will
-        have the opportunity to meet all of them and discuss various topics in
-        Pediatric surgery and urology with them. 
-
-
-        Look forward to seeing each of you at the congress. It will be great.
-
-        Warm wishes,
-
-        Manuel Lopez, professor,
-
-        MD, PhD, Head of the Pediatric Surgery Service of the University
-        Hospital Vall d 'Hebron, Barcelona, Spain.
-    - image: /img/kapullerphoto22.jpg
-      text: "Dear FRIENDS!\n\tI appreciate the opportunity to take part in the “VII INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE ON MINIMAL IVNASIVE PEDIATRIC SURGERY & UROLOGY 2019”. Can’t wait to meet you all again, and the beautiful Kiev, and beloved Ukraine. I’m glad the meeting is going to be held in the perfectly fitted with equipment “Oberig” clinic, where I’ve been already honored to perform surgeries within my previous visits.\n\tYours Sincerely,\n\tVadim Kapuller\nSenior Surgeon in the Dept. of Pediatric Surgery of Hadassah Medical Center, Jerusalem, Israel"
-    - image: /img/rsz-serdartekgul.jpg
+        Prof. Dr. Enis Alpin Güneri - MD MSc Otolaryngology Head and Neck
+        Surgery Faculty of Medicine, Department of Otorhinolaryngology, Dokuz
+        Eylül University (Izmir, Turkey)
+    - image: /img/paolo-battaglia.jpg
+      text: >-
+        Paolo Battaglia - MD Expert of Low-Invasive Surgery in Otolaryngology
+        and Neurosurgery, Professor and research scientist fellow at Università
+        degli Studi dell'Insubria (Varez, Italy)
+    - image: /img/попович-в.и.jpg
       text: >
-        Serdar Tekgul
-
-
-        academic pediatric urologist, professor at Hacettepe University,
-        Secretary of ESPU, chair of EAU Pediatric Urology Guidelines Commitee,
-        Ankara, Turkey
-    - image: /img/14_minevich-eugene_.jpg
-      text: |
-        Eugene Minevich, MD,
-        Professor, Division of Pediatric Urology,
-        Chair, Pediatric Urology International Education
-        Director, Stone Center
-
-        Cincinnati Children's, 
-        Cincinnati, OH, USA
-    - image: /img/027.jpg
+        Popovych Vasily Ivanovich - Prof. MD Head Department of
+        Otorhinolaryngology, Ophthalmology with the course of head and neck
+        surgery of IFNMU, Head of the expert group of the Ministry of Health of
+        Ukraine in the field of "Otolaryngology, Pediatric Otolaryngology,
+        Surldology".
+    - image: /img/bereznyuk-і.v.jpg
+      text: >
+        Bereznuk Igor Vasilyevich - otolaryngologist, member of the Ukrainian
+        Association of Oysters, otoneurosurgeons and otonneurologists, a member
+        of the Balkan Association of Otorhinolaryngologists head and neck
+        surgery
+    - image: /img/mario-turri-zanoni.jpg
       text: >-
-        Munther J Haddad MBBCH FRCS (Glasg) FRCS (Eng) FRCPCH
-
-        Senior Consultant Paediatric & Neonatal Surgeon
-
-        Chelsea & Westminster Hospital NHS Foundation Trust and St.Mary's
-        Hospital
-
-        Honorary Senior  Lecturer Imperial College School of Medicine
-
-        First Honorary President of the IPEG Middle East Chapter
-
-        Former President of the British Association of Paediatric Endoscopic
-        Surgeons BAPES
-    - image: /img/georges.jpg
-      text: |-
-        Professeur Georges AUDRY
-
-        Chef de Service de Chirurgie Viscérale Pédiatrique
-
-        HOPITAL TROUSSEAU, Paris, France
+        Mario Turri-Zanoni – MD expert on endoscopic surgery in otolaryngology
+        and skull base surgery Università degli Studi dell'Insubria (Varez,
+        Italy)
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
