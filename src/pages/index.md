@@ -1,40 +1,24 @@
 ---
 templateKey: index-page
 intro:
-  blurbs:
-    - image: /img/dubrovin3.jpg
-      text: >
-        President of Ukrainian pediatric surgeons’ association, professor of
-        pediatric surgery department at О.О. Bogomolets National Medical
-        University O. Dubrovin
-    - image: /img/levickii.jpg
-      text: >
-        Head of pediatric surgery department at О.О. Bogomolets National Medical
-        University, professor A.Levitskiy
-    - image: /img/godik2.jpg
-      text: >
-        Head of Innovation technologies in pediatric surgery and urology center
-        of “Oberig” clinic, associate-professor of pediatric surgery department
-        at О.О. Bogomolets National Medical University O. Godik
-    - image: /img/shvachka1.jpg
-      text: General manager KarlStorz Ukraine V. Shvachka
+  blurbs: []
   description: '?'
   heading: '?'
 ---
-![](/img/2019_no_flags.jpeg)
+![](/img/logo-ent-3logo-up.jpg)
 
 # **Greeting**
 
-Dear colleagues,
+Dear colleagues!
 
-We are honored to invite you to take part in VII INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE ON “MINIMAL IVNASIVE PEDIATRIC SURGERY & UROLOGY 2019” which will be held in Kyiv on September19-20 2019.
+  We are honored to invite you to take part in the event with international participation of "III Ukrainian ENT Course 2019 ".
 
-This event has important educational, scientific and social missions being focused on topical issues and modern tendencies of pediatric surgery and urology. Opinion Leaders from many countries are involved as speakers to this conference.   
+  This event has an important educational and scientific mission, it is focused on actual issues and current trends in endoscopic ENT surgery. This event will be attended by leading industry professionals - Prof. MD Bereznyuk Vladimir Vasilevich, Prof. MD Popovich Vasily Ivanovich, doctor Bereznyuk Igor Vasilyevich, Prof. MD Enis Alpin Güneri, Prof. MD Paolo Battaglia and Dr. MD Mario Turri-Zanoni.
 
-“Live surgery” broadcasts will be included to the program of the conference. Participants will get an opportunity to attend “HOW I DO IT” workshop, dedicated to challenging and complicated surgical cases.
+  The purpose of the course is to demonstrate modern endoscopic techniques for the operations in rhinocytes and otosurgery, establishing contacts between specialists from different countries, sharing practical experience.
 
-Little patients that will undergo surgical procedures within the conference are usually “social” kids, whose parents cannot afford treatment abroad; at the same time the experience of such operations in Ukraine is comparatively inconsiderable.
+During the event, cycles of "live surgery" will be held and partially will be streamed in 3D format.
 
-We hope sincerely that that being a participant of this meeting will be useful not only as a chance to gain some new knowledge and skills but also will offer a way to use them in your daily practice as pediatric surgeons and urologists.
+We sincerely hope that participation in the event will give you not only new experience and knowledge, but also make an impact in your daily practice as the otolaryngologist.
 
-Yours respectfully,
+Pre-registration is required!
