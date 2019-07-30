@@ -11,10 +11,10 @@ main:
     image: /img/28.png
   image2:
     alt: Я
-    image: /img/m_logo-2.jpg
+    image: /img/maxresdefault.jpg
   image3:
     alt: '?'
-    image: /img/maxresdefault.jpg
+    image: /img/без-названия.jpg
 ---
 ### День 1 / Day 1
 
