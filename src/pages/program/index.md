@@ -11,7 +11,7 @@ main:
     image: /img/28.png
   image2:
     alt: Я
-    image: /img/без-названия.jpg
+    image: /img/smallsymb.jpg
   image3:
     alt: '?'
     image: /img/maxresdefault.jpg
