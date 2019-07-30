@@ -1,30 +1,14 @@
 ---
 templateKey: speakers-page
-heading: Speakers' greetings
-description: >-
-  Warm greetings were sent to conference participants from our distinguished
-  speakers
+heading: Speakers
+description: Here you can get acquainted with our distinguished speakers
 intro:
   blurbs:
-    - image: /img/jorgephoto.jpeg
+    - image: /img/березнюк-в.в.jpg
       text: >
-        Dear colleagues and friends
-
-        I wish to invite you to participate in the VII International Scientific
-        and Practical Conference on Minimally Invasive Pediatric Surgery and
-        Urology to be held in Kiev.
-
-        This congress will be a great opportunity to share in a friendly and
-        high level scientific environment with experts from different countries
-        of the world.
-
-        We are convinced that with your presence this event will be a great
-        success.
-         See you in Ukraine (September 19-20, 2019)
-         Jorge Godoy Lenz
-
-        senior pediatric surgeon, Hospital San Juan de Dios and Clínica Las
-        Condes de Santiago, Santiago, Chili
+        Bereznuk Volodymyr Vasiliovych – Prof. MD Honored Doctor of Ukraine,
+        Head of otorhinolaryngology Department in the "Dnipropetrovsk Medical
+        Academy of the Ministry of Health of Ukraine"
     - image: /img/manuelphoto.jpg
       text: >-
         Colleagues & Friends
