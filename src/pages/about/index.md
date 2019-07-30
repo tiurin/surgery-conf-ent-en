@@ -2,26 +2,20 @@
 templateKey: about-page
 title: useful info
 ---
-![клініка "Оберіг"](/img/обериг.jpg "клініка \"Оберіг\"")
+![клініка "Оберіг"](/img/menora-hotel.jpg "клініка \"Оберіг\"")
 
-### "Oberig" clinic
+### The conference venue
 
-Medical center "Oberig "(LLC "Kapital") is one of the biggest private investment projects in the field of Healthcare. Since May 2008, it established itself as a modern institution of nongovernmental hospital, where outpatient and inpatient medical care of high quality is provided for Ukrainian citizens and patients from around the world. Clinic cares for scientific and educational projects, so it is the 8th time it warmly welcomes all the speakers and guests of  VII INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE ON “MINIMAL IVNASIVE PEDIATRIC SURGERY & UROLOGY 2019” 
+"III Ukrainian ENT Course 2019 " will be held at MENORAH Hotel, Sholom-Aleyhem street 4/26, Dnipro, Ukraine
 
-![карта](/img/карта22.png "карта")
+The first and the second days of the meeting - rhinosurgery, 19-20.11.2019 - will take place at Troitskiy conference hall (1-st floor of MENORAH Hotel) 
 
-### How to get to "Oberig" clinic?
+![карта](/img/1й-этаж-1.jpg "карта")
 
-address: 03057, Ukraine, Kyiv, Zoologichna street, 3, bulk «В» 
+The third and the fourth days of the meeting - otosurgery, 21-22.11.2019 - will take place at Menorah Ballroom (2-nd floor of MENORAH Hotel) 
 
-public minibus taxi from «Beresteyska» subway station (goes along Degtiarovska street to bus stop named Zoologichna)
+![готелы](/img/2й-этаж.jpg "готелы")
 
-public minibus taxi from «Lukianivska» subway station (goes along Degtiarovska street to bus stop named Zoologichna)
+### How to reach the Menorah Hotel?
 
-public minibus taxi from «Plytechnichny institut» subway station (goes along Peremohy Avenue to Zoologichna street
-
-![готелы](/img/карта-гостишки22.png "готелы")
-
-### Hotels 
-
-There are many hotels within an easy reach to clinic "Oberig". You will be able to choose one without any difficulties
+You can find map and contacts of the hotel [here](http://menorahotel.com/contacts/)
