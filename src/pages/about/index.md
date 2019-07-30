@@ -2,7 +2,7 @@
 templateKey: about-page
 title: useful info
 ---
-![клініка "Оберіг"](/img/menora-hotel.jpg "клініка \"Оберіг\"")
+![MENORAH Hotel](/img/menora-hotel.jpg "MENORAH Hotel")
 
 ### The conference venue
 
@@ -10,11 +10,11 @@ title: useful info
 
 The first and the second days of the meeting - rhinosurgery, 19-20.11.2019 - will take place at Troitskiy conference hall (1-st floor of MENORAH Hotel) 
 
-![карта](/img/1й-этаж-1.jpg "карта")
+![Troitskiy conference hall](/img/1й-этаж-1.jpg "Troitskiy conference hall")
 
 The third and the fourth days of the meeting - otosurgery, 21-22.11.2019 - will take place at Menorah Ballroom (2-nd floor of MENORAH Hotel) 
 
-![готелы](/img/kc-ballroom-01.jpg "готелы")
+![Menorah Ballroom](/img/kc-ballroom-01.jpg "Menorah Ballroom")
 
 ### How to reach the Menorah Hotel?
 
