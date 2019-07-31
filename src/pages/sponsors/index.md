@@ -1,16 +1,18 @@
 ---
 templateKey: sponsors-page
-heading: Sponsors
+heading: Sponsors & partners
 description: >-
-  “VII INTERNATIONAL SCIENTIFIC AND PRACTICAL CONFERENCE ON MINIMAL IVNASIVE
-  PEDIATRIC SURGERY & UROLOGY 2019” is possible thanks to our sponsors:
+  If you have an intention to become our sponsor either a partner - contact us!
+  We are ready to discuss details.
 intro:
   blurbs:
-    - image: /img/images.jpg
+    - image: /img/karl-storz-logo.jpg
       text: |
         KARL STORZ Ukraine
-    - image: /img/no-translate-detected_318-58762.jpg
+    - image: /img/лого-больница-мечникова.jpg
       text: |
-        your logo can be here
+        Dnipro Regional Clinical Hospital named by I.I. Mechnikov
+    - image: /img/шдм_original.png
+      text: Evidence-based medicine School
 ---
 
