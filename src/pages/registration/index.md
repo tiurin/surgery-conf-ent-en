@@ -34,4 +34,4 @@ pricing:
 ---
 ### Registration form
 
-can be found [here](https://dariadiehtiarova.typeform.com/to/APLqPo)
+can be found [here](https://933609.typeform.com/to/KQvUhR)
