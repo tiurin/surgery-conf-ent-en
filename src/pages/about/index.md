@@ -4,9 +4,11 @@ title: useful info
 ---
 ![MENORAH Hotel](/img/menora-hotel.jpg "MENORAH Hotel")
 
-### The conference venue
+### The course venue
 
 "III Ukrainian ENT Course 2019 " will be held at MENORAH Hotel, Sholom-Aleyhem street 4/26, Dnipro, Ukraine
+
+Аttention! Special conditions of settlement at "Menorah Hotel" and "7 Days" are valid for course participants.
 
 The first and the second days of the meeting - rhinosurgery, 19-20.11.2019 - will take place at Troitskiy conference hall (1-st floor of MENORAH Hotel) 
 
