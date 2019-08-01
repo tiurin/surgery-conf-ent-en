@@ -3,34 +3,33 @@ templateKey: registration-page
 title: Registration
 pricing:
   description: >-
-    An early conference registration is already terminated. Late registration
-    deadline is 01.09.2019.  Costs include coffee-breaks and lunch. Prices are
-    mentioned in Ukrainian Hryvnia. Places are limited to 120 people. By now
-    we've got 102 participants.  учасників. On-site registration assumes that
-    2500₴ must be payed by a surgeon & young surgeon and 1000₴ by a student
+    An early course registration deadline is 15.09.2019. Late registration will
+    take place from 16.09.2019 to 09.11.2019. You have the possibility to
+    register either to one of the 2-days-length thematic courses separately:
+    rhinosurgery 19-20.11.2019 or otosurgery 21-22.11.2019; another option is to
+    register for the whole course. Costs include coffee-breaks and lunch. Prices
+    are mentioned in Ukrainian Hryvnia.  Payment conditions and due dates will
+    be sent to you by email after registration.
   heading: Modalities of participation
   plans:
-    - description: '>5 years after internship training'
+    - description: detailed modalities
       items:
-        - early registration 1500₴ (deadline 15.06.2019)
-        - late registration 1750₴ (16.06.2019 to 01.09.2019)
-        - on-site registration 2500₴
-      plan: SURGEON
-      price: 1500₴ •1750₴  •2500₴
-    - description: interns and <5 years after internship training
+        - early registration ₴2500 (deadline 15.09.2019)
+        - late registration ₴3500 (16.09.2019 to 09.11.2019)
+      plan: RHINOSURGERY 19-20.11.2019
+      price: '•₴2500  •₴3500  '
+    - description: detailed modalities
       items:
-        - early registration 850₴ (deadline 15.06.2019)
-        - late registration 1100₴ ( 16.06.2019 to 01.09.2019)
-        - on-site registration 2500₴
-      plan: YOUNG SURGEON
-      price: •850₴  •1100₴  •2500₴
-    - description: with valid student ID
+        - early registration ₴2500 (deadline 15.09.2019)
+        - late registration ₴3500 (16.09.2019 to 09.11.2019)
+      plan: OTOSURGERY 21-22.11.2019
+      price: '•₴2500  •₴3500  '
+    - description: detailed modalities
       items:
-        - early registration 400₴ (deadline 15.06.2019)
-        - late registration 400₴ ( 16.06.2019 to 01.09.2019)
-        - on-site registration 1000₴
-      plan: STUDENTS
-      price: •400₴   •400₴  •1000₴
+        - early registration ₴5000 (deadline 15.09.2019)
+        - late registration ₴7000 (16.09.2019 to 09.11.2019)
+      plan: COMPLETE COURSE 19-22.11.19
+      price: •₴5000  •₴7000
 ---
 ### Registration form
 
