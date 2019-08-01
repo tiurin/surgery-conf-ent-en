@@ -6,7 +6,7 @@ title: Contact us!
 
 ## How to liaise with conference providers?
 
-If you have any more question you can contact us via email:
+If you have any more questions you can contact us via email:
 
 * entcourse2019@gmail.com
 
