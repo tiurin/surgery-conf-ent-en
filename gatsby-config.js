@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Науково-практична конференція з міжнародною участю «МАЛОІНВАЗИВНА ХІРУРГІЯ ТА УРОЛОГІЯ ДИТЯЧОГО ВІКУ 2019',
+    title: 'III Ukrainian ENT Course 2019',
     description:
-      'Сторінка з корисною інформацією щодо науково-практичної конференції з міжнародною участю «МАЛОІНВАЗИВНА ХІРУРГІЯ ТА УРОЛОГІЯ ДИТЯЧОГО ВІКУ 2019',
+      'Site with all the information about III Ukrainian ENT Course 2019',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
