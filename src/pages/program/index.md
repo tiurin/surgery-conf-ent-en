@@ -4,8 +4,6 @@ title: >-
   Орієнтовна програма конференції (слідкуйте за оновленнями) Approximate
   conference program (follow the updates)
 main:
-  description: '-'
-  heading: '-'
   image1:
     alt: '?'
     image: /img/28.png

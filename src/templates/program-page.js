@@ -27,14 +27,6 @@ export const ProgramPageTemplate = ({
               </div>
             </div>
           </div>
-          <div className="columns">
-            <div className="column">
-              <h3 className="has-text-weight-semibold is-size-3">
-                {main.heading}
-              </h3>
-              <p>{main.description}</p>
-            </div>
-          </div>
           <div className="tile is-ancestor">
             <div className="tile is-vertical">
               <div className="tile">
@@ -96,8 +88,6 @@ export const programPageQuery = graphql`
       frontmatter {
         title
         main {
-          heading
-          description
           image1 {
             alt
             image {
