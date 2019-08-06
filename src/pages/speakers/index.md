@@ -6,9 +6,9 @@ intro:
   blurbs:
     - image: /img/березнюк-в.в.jpg
       text: >
-        Bereznuk Volodymyr Vasiliovych – Prof. MD Honored Doctor of Ukraine,
-        Head of otorhinolaryngology Department in the "Dnipropetrovsk Medical
-        Academy of the Ministry of Health of Ukraine"
+        Volodymyr Bereznuk  – Prof. MD Honored Doctor of Ukraine, Head of
+        otorhinolaryngology Department in the "Dnipropetrovsk Medical Academy of
+        the Ministry of Health of Ukraine"
     - image: /img/prof.-dr.-enis-alpin-güneri-02.jpg
       text: >-
         Prof. Dr. Enis Alpin Güneri - MD MSc Otolaryngology Head and Neck
@@ -21,17 +21,13 @@ intro:
         degli Studi dell'Insubria (Varez, Italy)
     - image: /img/попович-в.и.jpg
       text: >
-        Popovych Vasily Ivanovich - Prof. MD Head Department of
-        Otorhinolaryngology, Ophthalmology with the course of head and neck
-        surgery of IFNMU, Head of the expert group of the Ministry of Health of
-        Ukraine in the field of "Otolaryngology, Pediatric Otolaryngology,
-        Surldology".
+        Vasily Popovych  - Prof. MD Head Department of Otorhinolaryngology,
+        Ophthalmology with the course of head and neck surgery of IFNMU, Head of
+        the expert group of the Ministry of Health of Ukraine in the field of
+        "Otolaryngology, Pediatric Otolaryngology, Surldology".
     - image: /img/bereznyuk-і.v.jpg
-      text: >
-        Bereznuk Igor Vasilyevich - otolaryngologist, member of the Ukrainian
-        Association of Oysters, otoneurosurgeons and otonneurologists, a member
-        of the Balkan Association of Otorhinolaryngologists head and neck
-        surgery
+      text: |2
+         Igor Bereznuk  - otolaryngologist, member of the Ukrainian Association of Oysters, otoneurosurgeons and otonneurologists, a member of the Balkan Association of Otorhinolaryngologists head and neck surgery
     - image: /img/mario-turri-zanoni.jpg
       text: >-
         Mario Turri-Zanoni – MD expert on endoscopic surgery in otolaryngology
