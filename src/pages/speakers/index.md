@@ -4,7 +4,7 @@ heading: Speakers
 description: Here you can get acquainted with our distinguished speakers
 intro:
   blurbs:
-    - image: /img/березнюк-в.в.jpg
+    - image: /img/березнюк-в11.в.jpg
       text: >
         Volodymyr Bereznuk  – Prof. MD Honored Doctor of Ukraine, Head of
         otorhinolaryngology Department in the "Dnipropetrovsk Medical Academy of
@@ -19,13 +19,13 @@ intro:
         Paolo Battaglia - MD Expert of Low-Invasive Surgery in Otolaryngology
         and Neurosurgery, Professor and research scientist fellow at Università
         degli Studi dell'Insubria (Varez, Italy)
-    - image: /img/попович-в.и.jpg
+    - image: /img/попович-в.11и.jpg
       text: >
         Vasily Popovych  - Prof. MD Head Department of Otorhinolaryngology,
         Ophthalmology with the course of head and neck surgery of IFNMU, Head of
         the expert group of the Ministry of Health of Ukraine in the field of
         "Otolaryngology, Pediatric Otolaryngology, Surldology".
-    - image: /img/bereznyuk-і.v.jpg
+    - image: /img/bereznyuk-і.1v.jpg
       text: |2
          Igor Bereznuk  - otolaryngologist, member of the Ukrainian Association of Oysters, otoneurosurgeons and otonneurologists, a member of the Balkan Association of Otorhinolaryngologists head and neck surgery
     - image: /img/mario-turri-zanoni.jpg
