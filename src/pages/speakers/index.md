@@ -9,7 +9,7 @@ intro:
         Volodymyr Bereznuk  – Prof. MD Honored Doctor of Ukraine, Head of
         otorhinolaryngology Department in the "Dnipropetrovsk Medical Academy of
         the Ministry of Health of Ukraine"
-    - image: /img/prof.-dr.-enis-alpin-güneri-02.jpg
+    - image: /img/prof.-dr.-enis-alpin-güneri-102.jpg
       text: >-
         Prof. Dr. Enis Alpin Güneri - MD MSc Otolaryngology Head and Neck
         Surgery Faculty of Medicine, Department of Otorhinolaryngology, Dokuz
