@@ -1,6 +1,6 @@
 ---
 templateKey: program-page
-title: ' Approximate conference program (follow the updates)'
+title: ' Approximate course program (follow the updates)'
 ---
 
 
