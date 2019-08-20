@@ -10,11 +10,11 @@ title: useful info
 
 Аttention! Special conditions of settlement at "Menorah Hotel" and "7 Days" are valid for course participants.
 
-The first and the second days of the meeting - rhinosurgery, 19-20.11.2019 - will take place at Troitskiy conference hall (1-st floor of MENORAH Hotel) 
+The first and the second days of the meeting - otosurgery, 19-20.11.2019 - will take place at Troitskiy conference hall (1-st floor of MENORAH Hotel) 
 
 ![Troitskiy conference hall](/img/1й-этаж-1.jpg "Troitskiy conference hall")
 
-The third and the fourth days of the meeting - otosurgery, 21-22.11.2019 - will take place at Menorah Ballroom (2-nd floor of MENORAH Hotel) 
+The third and the fourth days of the meeting - rhinosurgery, 21-22.11.2019 - will take place at Menorah Ballroom (2-nd floor of MENORAH Hotel) 
 
 ![Menorah Ballroom](/img/kc-ballroom-01.jpg "Menorah Ballroom")
 
