@@ -10,6 +10,8 @@ title: useful info
 
 Аttention! Special conditions of settlement at "Menorah Hotel" and "7 Days" are valid for course participants.
 
+To get a 10% discount for hotel room booking do mention you are the participant of Karl Storz event!
+
 The first and the second days of the meeting - otosurgery, 19-20.11.2019 - will take place at Troitskiy conference hall (1-st floor of MENORAH Hotel) 
 
 ![Troitskiy conference hall](/img/1й-этаж-1.jpg "Troitskiy conference hall")
