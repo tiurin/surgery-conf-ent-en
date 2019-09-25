@@ -12,9 +12,9 @@ title: useful info
 
 To get a 10% discount for hotel room booking do mention you are the participant of Karl Storz event!
 
-The first and the second days of the meeting - otosurgery, 19-20.11.2019 - will take place at Troitskiy conference hall (1-st floor of MENORAH Hotel) 
+The first and the second days of the meeting - otosurgery, 19-20.11.2019 - will take place at Sinai conference hall (4th floor of MENORAH Hotel) 
 
-![Troitskiy conference hall](/img/1й-этаж-1.jpg "Troitskiy conference hall")
+![Troitskiy conference hall](/img/sinai-01.jpg "Troitskiy conference hall")
 
 The third and the fourth days of the meeting - rhinosurgery, 21-22.11.2019 - will take place at Menorah Ballroom (2-nd floor of MENORAH Hotel) 
 
