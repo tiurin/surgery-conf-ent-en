@@ -15,5 +15,8 @@ intro:
     - image: /img/шдм_original.png
       text: Evidence-based medicine School
       url: 'https://shdm.school/'
+    - image: /img/transmedlogo-1.jpg
+      text: Transmed
+      url: ' http://transmed.com.ua/uk'
 ---
 
