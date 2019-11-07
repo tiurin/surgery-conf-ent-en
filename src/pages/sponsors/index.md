@@ -18,5 +18,8 @@ intro:
     - image: /img/transmedlogo-1-ресемплинг.jpg
       text: Transmed
       url: ' http://transmed.com.ua/uk'
+    - image: /img/arterium-gor-logos-pantone-копія-увеличенній.png
+      text: '"Kyivmedpreparat" public company'
+      url: 'http://www.kievmedpreparat.com/ '
 ---
 
